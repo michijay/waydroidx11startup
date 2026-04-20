@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Waydroid X11 Startup
+Comment=Launch Waydroid on X11 with Weston
+Exec=/opt/waydroidx11startup/waydroid_x11_startup.sh
+Path=/opt/waydroidx11startup/
+Terminal=true
+Icon=phone
+Categories=System;Utility;
+Keywords=android;container;waydroid;
